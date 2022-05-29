@@ -6,7 +6,7 @@ const uri =
     "mongodb://localhost:27017/?maxPoolSize=20&w=majority";
 
 const dbName = 'test';
-const collectionName = 'modsec4';
+const collectionName = 'modsec';
 
 
 
